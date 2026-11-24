@@ -1,4 +1,4 @@
-## 🧠 Project Overview & Role (Machine Learning / Computer Vision Engineer)
+## 🧠 Project Overview & Role 
 
 I designed, trained, and evaluated an end-to-end deep learning pipeline in PyTorch to classify 7 types of skin lesions using the **HAM10000** dermatoscopic image dataset:
 
